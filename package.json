@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node": "^19.2.0"
+  },
+  "name": "node-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kenny",
+  "license": "ISC",
+  "description": ""
+}
